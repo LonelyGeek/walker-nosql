@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walker-nosql.iml" filepath="$PROJECT_DIR$/.idea/modules/walker-nosql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walker-nosql_main.iml" filepath="$PROJECT_DIR$/.idea/modules/walker-nosql_main.iml" group="walker-nosql" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walker-nosql_test.iml" filepath="$PROJECT_DIR$/.idea/modules/walker-nosql_test.iml" group="walker-nosql" />
+    </modules>
+  </component>
+</project>
